@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "deMS"
+color:  purple
+width:   8
+height:  1
+date:   2017-07-03
+categories: BCM
+---
+`LMS2.0`프로젝트가 취소 되면서 시작하게 된 프로젝트. Classic ASP의 유지보수 비용이 상당히 요구됨에 따라 항상 요청하던, Out of MS를 진행.
+최 우선 과제는 Classic ASP를 걷어내는 것 으로써, 현재 CentOS서버, Apache, Tomcat의 구성 및 LG결제모듈 연동과 주문(수강신청)을 개발 및 Refactoring 예정.
+
+cf. [유폰 수강신청 링크][uphone-order]
+
+[uphone-order]: http://uphone.co.kr/UphoneWeb/order

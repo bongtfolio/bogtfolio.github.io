@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My Portfolio
-email: your-email@domain.com
+title: 봉일균 Portfolio
+email: cpt1bong@gmail.com.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jannik Richter, jannik811@gmail.com
+  CptBong, cpt1bong@gmail.com
 # baseurl: "/" # the subpath of your site, e.g. /blog
-# url: http://localhost:4000
-url: https://bongtfolio.github.io
+url: http://localhost:4000
+# url: https://prbong.github.io
 
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  cptbong
 
 # Build settings
 markdown: kramdown
